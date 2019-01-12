@@ -1,0 +1,10 @@
+# Ignore dirs and files
+
+## IDE
+/.idea/
+
+## Build files
+/build/
+
+## Generated font files
+/font/
