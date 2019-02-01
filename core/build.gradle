@@ -1,0 +1,7 @@
+apply plugin: 'application'
+//apply plugin: 'java'
+
+//group 'com.gmx.mattcha'
+version '1.0.0'
+
+mainClassName = 'com.gmx.mattcha.gfont.core.MainClass'

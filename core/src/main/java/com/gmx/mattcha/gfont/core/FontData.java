@@ -1,4 +1,4 @@
-package com.gmx.mattcha.gfont;
+package com.gmx.mattcha.gfont.core;
 
 import java.awt.*;
 import java.util.ArrayList;

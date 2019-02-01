@@ -1,2 +1,4 @@
 rootProject.name = 'gfont'
 
+include 'core'
+include 'desktop'
